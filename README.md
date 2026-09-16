@@ -58,6 +58,6 @@ Data lampiran SK e-Walidata terkelompok rapi berdasarkan OPD, memudahkan proses 
 
 6. Catatan
 Data asli milik instansi (Diskominfo Kota Batu) bersifat internal dan tidak dipublikasikan di repository ini karena alasan kerahasiaan. File pada folder `sample-data/` merupakan data dummy yang dibuat untuk menggambarkan struktur dan format data yang sebenarnya diolah, tanpa memuat data riil milik instansi.
-Selain project utama ini, selama PKL saya juga terlibat dalam penyusunan draf jurnal ilmiah bertema SPBE dan SDI bersama pembimbing lapangan. Jurnal tersebut belum rampung hingga akhir masa PKL, sehingga dilampirkan sebagai dokumen pendukung (lihat folder `dokumen-pendukung/draft-jurnal/`), bukan sebagai deliverable utama.
+Selain project utama ini, selama PKL saya juga terlibat dalam penyusunan draf jurnal ilmiah bertema SPBE dan SDI bersama pembimbing lapangan. Jurnal tersebut belum selesai dibuat hingga akhir masa PKL, sehingga dilampirkan sebagai dokumen pendukung, bukan sebagai deliverable utama.
 
 
